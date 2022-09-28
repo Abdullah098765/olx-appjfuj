@@ -1,0 +1,67 @@
+.text-center {
+    text-align: center;
+    align-items: center;
+}
+
+form.search {
+    margin: 0 auto;
+}
+
+form.search input[type=text] {
+
+    color: #333;
+    background-color: white;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    margin: 10px;
+    display: inline-block;
+    -ms-transform: skewX(-20deg);
+    -webkit-transform: skewX(-20deg);
+    transform: skewX(-20deg);
+    border: 2px solid #777;
+    width: 350px;
+    margin-left: -5px;
+    color: white;
+    background-color: rgb(165, 71, 42);
+    text-transform: uppercase;
+    padding: 5px 10px;
+    margin: 10px;
+    display: inline-block;
+    -ms-transform: skewX(-20deg);
+    -webkit-transform: skewX(-20deg);
+    transform: skewX(-20deg);
+    border: 2px solid brown;
+    width: 120px;
+    border-left: none;
+    border-right: none;
+
+}
+
+.city {
+    color: #333;
+    background-color: white;
+    text-align: center;
+    padding: 5px 10px;
+    margin: 10px;
+    display: inline-block;
+    border: 2px solid #777;
+    width: 350px;
+    margin-left: -5px;
+    color: white;
+    background-color: rgb(165, 71, 42);
+    text-transform: uppercase;
+    padding: 5px 10px;
+    margin: 10px;
+    display: inline-block;
+    border: 2px solid brown;
+    width: 120px;
+    border-left: none;
+    position: relative;
+    top: 8.5px;
+    left: 1px;
+    border-right: none;
+}
+.droplist{
+    list-style: none;
+}
